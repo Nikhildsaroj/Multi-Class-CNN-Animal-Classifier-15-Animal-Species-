@@ -8,7 +8,7 @@ The dataset consists of a vast collection of images belonging to 15 distinct ani
 
 ### Model Architecture:
 The CNN model architecture is based on the VGG16 model, a renowned deep convolutional neural network developed by the Visual Geometry Group at the University of Oxford. The model is fine-tuned to accommodate the specific requirements of the animal classification task.
-![image](https://github.com/Nikhildsaroj/Multi-Class-CNN-Animal-Classifier-15-Animal-Species-/assets/148480961/4889cdcd-6a2c-4a44-ba02-270e44c71f3d)
+
 
 
 ### Training:
