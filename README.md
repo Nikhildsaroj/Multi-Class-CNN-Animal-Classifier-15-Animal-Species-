@@ -18,6 +18,8 @@ The model is trained using both original and augmented training data to enhance 
 
 ### Evaluation:
 The trained model's performance is evaluated using the testing data, with metrics such as loss and accuracy used to assess its classification capabilities.
+![image](https://github.com/Nikhildsaroj/Multi-Class-CNN-Animal-Classifier-15-Animal-Species-/assets/148480961/53bf4227-6611-4b33-b555-740f14c6b002)
+
 
 ### Repository Contents:
 - **Jupyter Notebook:** The primary notebook contains Python code for data preprocessing, model architecture definition, training, and evaluation. Detailed explanations and comments are provided to guide users through the code implementation.
@@ -27,6 +29,10 @@ The trained model's performance is evaluated using the testing data, with metric
 To explore the Multi-Class CNN Animal Classifier project and delve into the intricacies of model development, clone this repository and run the provided Jupyter Notebook. Follow the detailed instructions within to load and preprocess the dataset, define and train the CNN model, and evaluate its performance.
 
 ### Model Performance:
-- **Training Loss:** 0.0307
+- **Training Accuracy:** 98.98%
+- ![image](https://github.com/Nikhildsaroj/Multi-Class-CNN-Animal-Classifier-15-Animal-Species-/assets/148480961/bbe4f882-0c5b-4533-a266-8b74704312df)
+
 - **Test Accuracy:** 89.86%
+- ![image](https://github.com/Nikhildsaroj/Multi-Class-CNN-Animal-Classifier-15-Animal-Species-/assets/148480961/c8788938-9876-44c2-9036-702675fd4fff)
+
 
